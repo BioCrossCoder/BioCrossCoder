@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @BioCrossCoder
+- 👀 I’m interested in understanding all major fields in software development and using different programming languages.
+- 😄 I’m always pursuing writing better codes and creating better designs.
+- 🌱 I’m currently learning AI knowledge, browser plugin development and IDE plugin development.
+- 📫 How to reach me:
+  - Email: viscaria_dignics@163.com
+  - Wechat: viscaria_dignics
+  - SegmentFault: BioCrossCoder
+  - Gitee: BioCrossCoder
