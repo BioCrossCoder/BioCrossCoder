@@ -5,5 +5,22 @@
 - 📫 How to reach me:
   - Email: viscaria_dignics@163.com
   - Wechat: viscaria_dignics
-  - SegmentFault: BioCrossCoder
+  - SegmentFault: [BioCrossCoder](https://segmentfault.com/u/biocrosscoder)
   - Gitee: BioCrossCoder
+
+## My Tech Stack
+
+### Major
+
+[![Major](https://skillicons.dev/icons?i=py,go,ts,vue,react,vscode,js,css,html)](https://skillicons.dev)
+
+### In Use
+
+[![In Use](https://skillicons.dev/icons?i=docker,kubernetes,mysql,redis,kafka,linux,ubuntu,bash,vim,git,github,regex,md,django,sqlite,nodejs,npm,vite,windows,powershell)](https://skillicons.dev)
+
+### Used
+
+[![Used](https://skillicons.dev/icons?i=electron,express,selenium,c,flask,mongodb,nginx,emotion,pinia,sass,webpack,pycharm)](https://skillicons.dev)
+
+### Tried
+[![Tried](https://skillicons.dev/icons?i=dart,flutter,java,cs,cpp,prometheus,grafana,postman,r,vitest)](https://skillicons.dev)
