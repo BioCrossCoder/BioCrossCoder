@@ -6,7 +6,7 @@
   - Email: viscaria_dignics@163.com
   - Wechat: viscaria_dignics
   - SegmentFault: [BioCrossCoder](https://segmentfault.com/u/biocrosscoder)
-  - Gitee: BioCrossCoder
+  - Gitee: [BioCrossCoder](https://gitee.com/viscaria-virus)
 
 ## My Tech Stack
 
