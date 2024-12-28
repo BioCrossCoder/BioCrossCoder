@@ -16,11 +16,11 @@
 
 ### In Use
 
-[![In Use](https://skillicons.dev/icons?i=docker,kubernetes,mysql,redis,kafka,linux,ubuntu,bash,vim,git,github,regex,md,django,sqlite,nodejs,npm,vite,windows,powershell)](https://skillicons.dev)
+[![In Use](https://skillicons.dev/icons?i=docker,kubernetes,mysql,redis,kafka,linux,ubuntu,bash,vim,git,github,regex,md,django,sqlite,nodejs,npm,vite,pinia,sass,windows,powershell)](https://skillicons.dev)
 
 ### Used
 
-[![Used](https://skillicons.dev/icons?i=electron,express,selenium,c,flask,mongodb,nginx,emotion,pinia,sass,webpack,pycharm)](https://skillicons.dev)
+[![Used](https://skillicons.dev/icons?i=electron,express,selenium,c,flask,mongodb,nginx,emotion,webpack,pycharm)](https://skillicons.dev)
 
 ### Tried
 [![Tried](https://skillicons.dev/icons?i=dart,flutter,java,cs,cpp,prometheus,grafana,postman,r,vitest)](https://skillicons.dev)
