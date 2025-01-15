@@ -20,7 +20,7 @@
 
 ### Used
 
-[![Used](https://skillicons.dev/icons?i=electron,express,selenium,c,flask,mongodb,nginx,emotion,webpack,pycharm)](https://skillicons.dev)
+[![Used](https://skillicons.dev/icons?i=electron,express,selenium,c,flask,nextjs,mongodb,nginx,emotion,webpack,pycharm)](https://skillicons.dev)
 
 ### Tried
-[![Tried](https://skillicons.dev/icons?i=dart,flutter,java,cs,cpp,prometheus,grafana,postman,r,vitest,nextjs,nuxtjs,tailwind,graphql)](https://skillicons.dev)
+[![Tried](https://skillicons.dev/icons?i=dart,flutter,java,cs,cpp,prometheus,grafana,postman,r,vitest,nuxtjs,tailwind,graphql)](https://skillicons.dev)
