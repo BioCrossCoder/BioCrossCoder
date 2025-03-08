@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BioCrossCoder
 - 👀 I’m interested in understanding all major fields in software development and using different programming languages.
 - 😄 I’m always pursuing writing better codes and creating better designs.
-- 🌱 I’m currently learning and developing AI applications and IntelliJ extensions.
+- 🌱 I’m currently learning [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) and [ionic](https://ionicframework.com/docs).
 - 📫 How to reach me:
   - Email: viscaria_dignics@163.com
   - Wechat: viscaria_dignics
