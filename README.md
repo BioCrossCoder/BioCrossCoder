@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BioCrossCoder
 - 👀 I’m interested in understanding all major fields in software development and using different programming languages.
 - 😄 I’m always pursuing writing better codes and creating better designs.
-- 🌱 I’m currently learning [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) and [ionic](https://ionicframework.com/docs).
+- 🌱 I’m glad to provide consultations on learning and job hunting for students on campus.
 - 📫 How to reach me:
   - Email: viscaria_dignics@163.com
   - Wechat: viscaria_dignics
@@ -10,17 +10,18 @@
 
 ## My Tech Stack
 
-### Major
+### Languages
 
-[![Major](https://skillicons.dev/icons?i=py,go,ts,vue,react,vscode,js,css,html)](https://skillicons.dev)
+![lang](https://skillicons.dev/icons?i=py,go,ts)
 
-### In Use
+### Frameworks
 
-[![In Use](https://skillicons.dev/icons?i=docker,kubernetes,mysql,redis,kafka,linux,ubuntu,bash,vim,git,github,regex,md,django,sqlite,nodejs,npm,vite,pinia,sass,windows,powershell)](https://skillicons.dev)
+![frame](https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,electron,django,fastapi,flask,selenium)
 
-### Used
+### Components
 
-[![Used](https://skillicons.dev/icons?i=electron,express,selenium,c,flask,nextjs,mongodb,nginx,emotion,webpack,pycharm)](https://skillicons.dev)
+![comp](https://skillicons.dev/icons?i=mysql,redis,kafka,mongodb,nginx,sqlite)
 
-### Tried
-[![Tried](https://skillicons.dev/icons?i=dart,flutter,java,cs,cpp,prometheus,grafana,postman,r,vitest,nuxtjs,tailwind,graphql)](https://skillicons.dev)
+### Tools
+
+![tool](https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,vscode,pycharm,nodejs,npm,vite,linux,ubuntu,bash,vim,git,github)
