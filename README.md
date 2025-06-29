@@ -24,4 +24,6 @@
 
 ### Tools
 
+***I really hate fucking `Kubernetes`, which is unnecessarily complicated and far from elegance***
+
 ![tool](https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,vscode,pycharm,nodejs,npm,vite,linux,ubuntu,bash,vim,git,github)
