@@ -8,6 +8,8 @@
   - SegmentFault: [BioCrossCoder](https://segmentfault.com/u/biocrosscoder)
   - Gitee: [BioCrossCoder](https://gitee.com/viscaria-virus)
 
+***As we all know, programming is simple, interesting and easy to give a sense of achievement. Developing software is not simple, so it is just interesting and easy to give a sense of achievement.***
+
 ## My Major Programming Languages
 
 ### Current
