@@ -16,4 +16,4 @@
 ![lang](https://skillicons.dev/icons?i=go,ts,py)
 
 ### Coming
-![lang](https://skillicons.dev/icons?i=kotlin,dart,cs)
+![lang](https://skillicons.dev/icons?i=dart,kotlin,rust)
